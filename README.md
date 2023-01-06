@@ -1,2 +1,5 @@
 # myUnityProjects
- A repo to showcase my unity projects both 2D and 3D
+
+Name: Pervla Hemanth
+
+This is a repo to showcase my unity projects both 2D and 3D
