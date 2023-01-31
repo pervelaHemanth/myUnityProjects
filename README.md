@@ -1,6 +1,6 @@
 # myUnityProjects
 
-Name: Pervla Hemanth
+Name: Pervela Hemanth
 
 This is a repo to showcase my unity projects both 2D and 3D
 
