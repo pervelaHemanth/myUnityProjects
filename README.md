@@ -18,11 +18,11 @@ b) Simple controls ;P. Press space to make your bird flap.
 
 c) Main Objective is to get make the bird fly without getting hit by the pipes
 
-4) A Score system keeps track of every pipe you successfully go through without colliding and a HighScore system keeps track of the highest score you got to in the previous sessions.
+d) A Score system keeps track of every pipe you successfully go through without colliding and a HighScore system keeps track of the highest score you got to in the previous sessions.
 
-5) The main menu also displays the High Score and you have an option to reset it.
+e) The main menu also displays the High Score and you have an option to reset it.
 
-6) The options menu has an option to turn the in game volume UP and DOWN
+f) The options menu has an option to turn the in game volume UP and DOWN
 
 What i learnt from this project:-
 
