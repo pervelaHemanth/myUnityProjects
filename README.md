@@ -1,5 +1,3 @@
-# myUnityProjects
-
 Name: Pervela Hemanth
 
 This is a repo to showcase my unity projects both 2D and 3D
@@ -52,6 +50,18 @@ l) Plagarism is the best way to learn game development because we, as novice gam
 
 *Download and extract the Flampy Birmd.zip file to access the game.*
 *Open the FlampyBirmd.exe to run the game*
+
+## Screenshots
+
+![Title screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Main%20Menu.png)
+
+![Options Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Options%20Screen.png)
+
+![Game Screenshot](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Game.png)
+
+![Game Over Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Game%20Over%20Screen.png)
+
+![High Scores Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/High%20Scores%20Screen.png)
 
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
