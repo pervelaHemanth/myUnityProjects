@@ -4,13 +4,13 @@ Name: Pervela Hemanth
 
 This is a repo to showcase my unity projects both 2D and 3D
 
-The final build of my first project is now avilable for download
+*The final build of my first project is now avilable for download*
 
-1) FLAMPY BIRMD
+# FLAMPY BIRMD
 
 This game is a Parody of the smash hit iPhone game Flappy Bird.
 
-Features of this game:-
+**Features of this game:-**
 
 a) The game has a simple yet fully functional User Interface(UI) with a main menu, options screen, quit button etc.
 
@@ -24,7 +24,7 @@ e) The main menu also displays the High Score and you have an option to reset it
 
 f) The options menu has an option to turn the in game volume UP and DOWN
 
-What i learnt from this project:-
+**What i learnt from this project:-**
 
 a) How to get going with UNITY.
 
@@ -50,9 +50,9 @@ k) Working with sliders in unity.
 
 l) Plagarism is the best way to learn game development because we, as novice game developers, needn't care about design, art style, mechanics etc cause they are already given to us. We can focus on building the most important aspect, i.e. the code.
 
-Download and extract the Flampy Birmd.zip file to access the game.
-Open the FlampyBirmd.exe to run the game
+*Download and extract the Flampy Birmd.zip file to access the game.*
+*Open the FlampyBirmd.exe to run the game*
 
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
-THANKS FOR SUPPORTING :)
+# THANKS FOR SUPPORTING :)
