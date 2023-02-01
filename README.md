@@ -6,7 +6,7 @@ This is a repo to showcase my unity projects both 2D and 3D
 
 *The final build of my first project is now avilable for download*
 
-# FLAMPY BIRMD
+## FLAMPY BIRMD
 
 This game is a Parody of the smash hit iPhone game Flappy Bird.
 
@@ -55,4 +55,4 @@ l) Plagarism is the best way to learn game development because we, as novice gam
 
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
-# THANKS FOR SUPPORTING :)
+## THANKS FOR SUPPORTING :)
