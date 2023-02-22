@@ -80,10 +80,10 @@ The 2.0 Version is still a work in progress. Things i will have ot fix include b
 1) Make the arrow fall down after it hits the target
 2) If the arrow doesn't hit the target, the bird will fly indefinitely. I would want to kill the bird if the arrow misses the target.
 
+![Flampy Birmd 2.0](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/Flampy%20Birmd%202.0.png)
+
 *Download and extract the Flampy Birmd 2.0 .zip file to access the game.*
 *Open the FlampyBirmd.exe to run the game*
-
-
 
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
