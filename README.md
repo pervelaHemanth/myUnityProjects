@@ -63,6 +63,28 @@ l) Plagarism is the best way to learn game development because we, as novice gam
 
 ![High Scores Screen](https://github.com/pervelaHemanth/myUnityProjects/blob/flampy-birmd/ScreenShots/High%20Scores%20Screen.png)
 
+## Flampy Birmd 2.0
+
+Now this is something original!
+
+I added an extra mechanic to my Flampy Birmd game to make it more interesting and challenging
+
+Now you will have a target that will spawn before the pipe does
+You will have to hit the **RIGHT ARROW KEY** to eject an arrow from the bird
+If the arrow HITS the target, the pipe will spawn and you can go through it to keep the score ticking
+
+I have uploaded both the versions in GitHub 
+
+The 2.0 Version is still a work in progress. Things i will have ot fix include but are not limited to:
+
+1) Make the arrow fall down after it hits the target
+2) If the arrow doesn't hit the target, the bird will fly indefinitely. I would want to kill the bird if the arrow misses the target.
+
+*Download and extract the Flampy Birmd 2.0 .zip file to access the game.*
+*Open the FlampyBirmd.exe to run the game*
+
+
+
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
 ## THANKS FOR SUPPORTING :)
