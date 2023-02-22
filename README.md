@@ -88,5 +88,3 @@ The 2.0 Version is still a work in progress. Things i will have ot fix include b
 I have started working on another UNITY 2D project. This time i am attempting to recreate a level from Mario Forever with the knowledge i have gained from this project.
 
 ## THANKS FOR SUPPORTING :)
-
-theme: Architect
